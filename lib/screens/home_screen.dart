@@ -242,7 +242,7 @@ class HomeScreen extends StatelessWidget {
           // ---------------------------------------------------------------
 
           Text(
-            'Welcome Ankul',
+            'Welcome Garima',
             maxLines: 1,
             overflow: TextOverflow.ellipsis,
             style: TextStyle(

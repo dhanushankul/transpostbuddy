@@ -11,9 +11,9 @@ class MyProfileScreen extends StatelessWidget {
   // TODO: replace these hardcoded values with the logged-in user's real
   // data, e.g. passed in via constructor params or read from a
   // UserProvider / auth state after sign-in.
-  static const String _name = 'Ankul Gautam';
-  static const String _signum = 'weghuk';
-  static const String _email = 'ankul.gautam@ericssson.com';
+  static const String _name = 'Garima Garima B';
+  static const String _signum = 'eagkgba';
+  static const String _email = 'garima.b@ericssson.com';
   static const String _company = 'Ericsson';
 
   static const Color primaryBlue = Color(0xFF1E6FBA);
